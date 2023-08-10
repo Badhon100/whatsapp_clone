@@ -7,18 +7,18 @@ const info = [
         'https://upload.wikimedia.org/wikipedia/commons/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg',
   },
   {
-    'name': 'John Doe',
+    'name': 'Jayed Khan',
     'message': 'Hello, whats up',
     'time': '2:25 pm',
     'profilePic':
-        'https://www.socialketchup.in/wp-content/uploads/2020/05/fi-vill-JOHN-DOE.jpg',
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi0wrw1CtvJjEYp_4rQzqpBmBMTpGgJewRi5diVEUw99rdxVmP6B3LC2MXgKcEWt3bPYs&usqp=CAU',
   },
   {
-    'name': 'Naman Ranawat',
+    'name': 'Hero Alom',
     'message': 'Hello, I want to sleep.',
     'time': '1:03 pm',
     'profilePic':
-        'https://media.cntraveler.com/photos/60596b398f4452dac88c59f8/16:9/w_3999,h_2249,c_limit/MtFuji-GettyImages-959111140.jpg',
+        'https://starsunfolded.com/wp-content/uploads/2016/12/Hero-Alom-profile.jpg',
   },
   {
     'name': 'Dad',
